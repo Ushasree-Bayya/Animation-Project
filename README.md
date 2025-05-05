@@ -25,7 +25,7 @@ animated-headphone-project/
 ├── headphones.png
 ├── screenshot.png
 └── README.md
-
+```
 ## 🔗 Live Demo
 Check out the live project here: [Animated Headphone Project](https://ushasreebayya.github.io/animated-headphone-project/)
 
@@ -38,3 +38,4 @@ Check out the live project here: [Animated Headphone Project](https://ushasreeba
 - Floating effects based on basic keyframe animations  
 - Created as part of my frontend development learning journey  
 - Special thanks to open-source tutorials and design inspiration
+
