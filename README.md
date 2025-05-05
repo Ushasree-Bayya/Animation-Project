@@ -27,7 +27,7 @@ animated-headphone-project/
 └── README.md
 ```
 ## 🔗 Live Demo
-Check out the live project here: [Animated Headphone Project](luminous-stroopwafel-3aaa5f.netlify.app)
+Check out the live project here: [Animated Headphone Project](https://luminous-stroopwafel-3aaa5f.netlify.app)
 
 
 ## 🧑‍💻 Author
