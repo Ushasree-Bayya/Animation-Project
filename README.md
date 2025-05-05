@@ -27,7 +27,7 @@ animated-headphone-project/
 └── README.md
 ```
 ## 🔗 Live Demo
-Check out the live project here: [Animated Headphone Project](https://ushasreebayya.github.io/animated-headphone-project/)
+Check out the live project here: [Animated Headphone Project](https://ushasree-bayya.github.io/Animation-Project/)
 
 
 ## 🧑‍💻 Author
